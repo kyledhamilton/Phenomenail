@@ -1,2 +1,2 @@
-# phenomenail
-Phenomenail Foot Care &amp; Esthetics website
+# Phenomenail
+Phenomenail Foot Care &amp; Esthetics
