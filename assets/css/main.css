@@ -3331,7 +3331,7 @@
 			background-color: #1E2832;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/sedawood.jpg");
+			background-image: url("images/overlay.png"), url("../../images/shore.jpg");
 			background-size: cover;
 		}
 
@@ -3879,7 +3879,7 @@
 		background-color: #1E2832;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/16251768_747270835428674_7033188972598971423_o.jpg?oh=2d2da031742d27454f27c049994dec45&oe=5B48DCF1");
+		background-image: url("images/overlay.png"), url("../../images/sedawood.jpg");
 		background-size: cover;
 		text-align: center;
 	}
